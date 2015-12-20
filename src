@@ -1,0 +1,24 @@
+_0x1337 = 1337
+$ = 'Happy Birthday OpenStack'
+re = require
+c = 'createServer'
+l = 'listen'
+w = 'writeHead'
+e = 'end'
+l2 = 'length'
+c2 = 'Content-Type'
+_ = 'text/html'
+p = 'VMC_APP_PORT'
+e2 = 'env'
+u = 'util'
+f = 'format'
+pi = parseInt
+h = 'http'
+pr = process
+z = "00"
+fo = '%d'
+
+re(h)[c](function(rq, rs) {
+    rs[w](pi(pi(re(u)[f](fo,pi(($[l2]/_0x1337)+(133>>7)+(133>>7))+z))),{}[c2]=_)
+    rs[e]($)
+})[l](pr[e2][p]||_0x1337, null)
